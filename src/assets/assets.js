@@ -14,7 +14,7 @@ export const products = [
         "rating": 4.9,
         "reviews": 195,
         "oldPrice": 18500,
-        "price": 15000,
+        "price": 16000,
         // 🎨 حقل الألوان المضاف حديثاً
         "colors": [
             { "name": "رمادي وبيج", "hex": "#A0AEC0" },
@@ -59,7 +59,7 @@ export const products = [
         "rating": 4.9,
         "reviews": 250,
         "oldPrice": 15500,
-        "price": 12800,
+        "price": 13800,
         // 🎨 حقل الألوان المضاف حديثاً
         "colors": [
             { "name": "رمادي وبيج", "hex": "#A0AEC0" },
