@@ -1,6 +1,8 @@
 import product11 from "./product11.jpeg";
 import product12 from "./product12.jpeg";
 import product13 from "./product13.jpeg";
+import product14 from "./product14.jpeg";
+import product15 from "./product15.jpeg";
 import product21 from './product21.jpeg';
 import product22 from './product22.jpeg';
 import product23 from './product23.jpeg';
@@ -29,7 +31,7 @@ export const products = [
             " إمكانية المعاينة الكاملة للمنتج قبل الدفع عند الاستلام",
             " شحن مجاني بالكامل لجميع المحافظات"
         ],
-        "images": [product13, product12, product11],
+        "images": [product11, product12, product13,product15,product14],
         "faq": [
             {
                 "question": "هل يمكن المعاينة قبل الاستلام؟",
